@@ -7,7 +7,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "install": "node-gyp rebuild"
   },
   "author": "",
   "license": "ISC"

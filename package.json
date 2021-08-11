@@ -11,7 +11,7 @@
   "license": "ISC",
   "engines": {
     "node": "14.x"
-  }
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/shikto-tech/minecraft_jar_16.5.git"

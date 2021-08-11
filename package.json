@@ -1,15 +1,22 @@
 {
   "name": "gs",
   "version": "1.0.0",
-  "description": "",
-  "main": "server,js",
-  "dependencies": {
-  },
+  "main": "index.js",
+  "dependencies": {},
   "devDependencies": {},
   "scripts": {
-    "start": "node index.js",
-    "install": "node-gyp rebuild"
+    "start": "node index.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shikto-tech/minecraft_jar_16.5.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/shikto-tech/minecraft_jar_16.5/issues"
+  },
+  "homepage": "https://github.com/shikto-tech/minecraft_jar_16.5#readme",
+  "description": ""
 }

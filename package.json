@@ -1,0 +1,14 @@
+{
+  "name": "gs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server,js",
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
